@@ -9,10 +9,10 @@ from pathlib import Path
 # IMPORTIAMO GLI ALBERI DELLE DOMANDE PER POTER COSTRUIRE L'ELENCO COMPLETO DELLE COLONNE
 from Questionario import question_tree_10_plus, question_tree_3_9, preliminary_questions
 
-# =============================================================================
+# ============================================================================
 # GESTORE PER IL SALVATAGGIO DELLE RISPOSTE SU FILE EXCEL
 # QUESTA VERSIONE È COMPLETA E FUNZIONANTE
-# =============================================================================
+# ============================================================================
 
 logger = logging.getLogger(__name__)
 
