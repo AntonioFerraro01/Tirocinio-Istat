@@ -26,7 +26,7 @@ logger = logging.getLogger(__name__)
 
 
 #----------------- Token del bot telegram ------------------------
-BOT_TOKEN = "7913278624:AAHYXMoqvmrZ236DzYT3DOAlsYGxpV6b5Lw"
+BOT_TOKEN = "" # INSERIRE QUI IL TOKEN DEL BOT
 
 
 #-----------   Dizionari per le varianti di lingua e risposte booleane (si,no,aiuto,stop) ------------
